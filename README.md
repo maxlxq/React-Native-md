@@ -4,3 +4,13 @@
 #### 原生集成问题
 #### 报错处理问题
 #### 开源项目问题
+
+## 开发使用的库
+#### react-navigation
+- StackNavigator，适配iPhoneX
+
+#### teaset
+- Toast，全局任意使用
+
+
+
