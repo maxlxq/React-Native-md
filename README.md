@@ -12,5 +12,6 @@
 #### teaset
 - Toast，全局任意使用
 
-
+### 图片选择器
+- react-native-syan-image-picker
 
