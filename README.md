@@ -15,3 +15,5 @@
 ### 图片选择器
 - react-native-syan-image-picker
 
+### 安卓WebView 支持 视频+图片
+- [react-native-webview-android](https://github.com/lucasferreira/react-native-webview-android)
