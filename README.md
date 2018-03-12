@@ -17,3 +17,6 @@
 
 ### 安卓WebView 支持 视频+图片
 - [react-native-webview-android](https://github.com/lucasferreira/react-native-webview-android)
+
+### 聊天界面
+- [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)
