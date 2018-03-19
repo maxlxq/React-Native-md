@@ -8,6 +8,7 @@
 ## 开发使用的库
 #### react-navigation
 - StackNavigator，适配iPhoneX
+- 配合redux使用最佳！
 
 #### teaset
 - Toast，全局任意使用
