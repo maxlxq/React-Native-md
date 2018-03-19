@@ -20,3 +20,6 @@
 
 ### 聊天界面
 - [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)
+
+### 极光IM
+- [jmessage-react-plugin](https://github.com/jpush/jmessage-react-plugin)
